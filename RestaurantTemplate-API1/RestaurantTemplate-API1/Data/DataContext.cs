@@ -12,5 +12,6 @@ namespace RestaurantTemplate_API1.Data
         public DataContext(DbContextOptions<DataContext> options) : base(options) { }
 
         public DbSet<Dish> Dishes { get; set; }
+        public DbSet<Category> Categories { get; set; }
     }
 }

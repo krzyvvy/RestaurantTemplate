@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kacper\\source\\repos\\RestaurantTemplate-API1\\RestaurantTemplate-API1\\RestaurantTemplate-API1.csproj": {}
+    "C:\\Users\\Kacper\\Desktop\\RestaurantTemplate\\RestaurantTemplate-API1\\RestaurantTemplate-API1\\RestaurantTemplate-API1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kacper\\source\\repos\\RestaurantTemplate-API1\\RestaurantTemplate-API1\\RestaurantTemplate-API1.csproj": {
+    "C:\\Users\\Kacper\\Desktop\\RestaurantTemplate\\RestaurantTemplate-API1\\RestaurantTemplate-API1\\RestaurantTemplate-API1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kacper\\source\\repos\\RestaurantTemplate-API1\\RestaurantTemplate-API1\\RestaurantTemplate-API1.csproj",
+        "projectUniqueName": "C:\\Users\\Kacper\\Desktop\\RestaurantTemplate\\RestaurantTemplate-API1\\RestaurantTemplate-API1\\RestaurantTemplate-API1.csproj",
         "projectName": "RestaurantTemplate-API1",
-        "projectPath": "C:\\Users\\Kacper\\source\\repos\\RestaurantTemplate-API1\\RestaurantTemplate-API1\\RestaurantTemplate-API1.csproj",
+        "projectPath": "C:\\Users\\Kacper\\Desktop\\RestaurantTemplate\\RestaurantTemplate-API1\\RestaurantTemplate-API1\\RestaurantTemplate-API1.csproj",
         "packagesPath": "C:\\Users\\Kacper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kacper\\source\\repos\\RestaurantTemplate-API1\\RestaurantTemplate-API1\\obj\\",
+        "outputPath": "C:\\Users\\Kacper\\Desktop\\RestaurantTemplate\\RestaurantTemplate-API1\\RestaurantTemplate-API1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kacper\\AppData\\Roaming\\NuGet\\NuGet.Config",

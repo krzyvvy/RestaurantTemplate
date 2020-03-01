@@ -11,7 +11,7 @@ namespace RestaurantTemplate_API1.Services
         Task AddCategory(CategoryInformation categoryInformation);
         Task<CategoryInformation> GetCategory(int id);
         Task<IEnumerable<CategoryInformation>> GetCategories();
-        Task EditCategories(CategoryInformation categoryInformation);
+        Task EditCategory(CategoryInformation categoryInformation);
         Task DeleteCategory(int id);
     }
 }

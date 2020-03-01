@@ -26,7 +26,7 @@ namespace RestaurantTemplate_API1.Services
             await _repository.DeleteCategory(id);
         }
 
-        public async Task EditCategories(CategoryInformation categoryInformation)
+        public async Task EditCategory(CategoryInformation categoryInformation)
         {
             await _repository.EditCategory(categoryInformation);
         }

@@ -14,6 +14,10 @@ namespace RestaurantTemplate_API1.Helpper
         {
             CreateMap<Dish, DishInformation>();
             CreateMap<DishInformation, Dish>();
+            CreateMap<Category, CategoryInformation>();
+            CreateMap<CategoryInformation, Category>();
+            CreateMap<Contact, ContactInformation>();
+            CreateMap<ContactInformation, Contact>();
         }
     }
 }
